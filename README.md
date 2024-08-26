@@ -1,16 +1,12 @@
 # avantgrade_ui
 
-A new Flutter project.
+This project presents a minimalistic login screen UI built using Flutter. The design focuses on simplicity and ease of use, providing a clean interface for users to log in.
+
+Features
+1.Minimalistic Design: A clean, user-friendly interface with essential elements only.
+2.Responsive Layout: Compatible with various screen sizes.
+3.Customizable: Easily adjustable for different themes or brand styles.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
