@@ -7,6 +7,5 @@ Features
 2.Responsive Layout: Compatible with various screen sizes.
 3.Customizable: Easily adjustable for different themes or brand styles.
 
-## Getting Started
 
 
